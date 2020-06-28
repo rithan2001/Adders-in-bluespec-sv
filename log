@@ -1,0 +1,2 @@
+Result= 9
+- verilog/mkTb_add.v:48: Verilog $finish
